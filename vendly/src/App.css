@@ -1,0 +1,17 @@
+.App {
+  width: 338px;
+  height: 586px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  border: 1px solid red;
+}
+
+.main {
+  text-align: center;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
